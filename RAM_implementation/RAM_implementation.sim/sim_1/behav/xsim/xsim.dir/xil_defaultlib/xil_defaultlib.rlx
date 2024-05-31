@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sim_1/new/tb.v,1717180827,verilog,,,,tb,,,,,,,,
+C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/digit_extractor.v,1717180647,verilog,,C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/freq_div.v,,digit_extractor,,,,,,,,
+C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/freq_div.v,1717180621,verilog,,C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/fsm.v,,freq_div,,,,,,,,
+C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/fsm.v,1717180515,verilog,,C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/ram_256x8.v,,fsm,,,,,,,,
+C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/ram_256x8.v,1717180589,verilog,,C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/top.v,,ram256x8,,,,,,,,
+C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/top.v,1717180768,verilog,,C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/transcodor_7seg.v,,top,,,,,,,,
+C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sources_1/new/transcodor_7seg.v,1717180689,verilog,,C:/MyFiles/Vivado_projects/RAM_implementation/RAM_implementation.srcs/sim_1/new/tb.v,,transcodor_7seg,,,,,,,,

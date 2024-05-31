@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../RAM_implementation.srcs/sources_1/new/digit_extractor.v" \
+"../../../../RAM_implementation.srcs/sources_1/new/freq_div.v" \
+"../../../../RAM_implementation.srcs/sources_1/new/fsm.v" \
+"../../../../RAM_implementation.srcs/sources_1/new/ram_256x8.v" \
+"../../../../RAM_implementation.srcs/sources_1/new/top.v" \
+"../../../../RAM_implementation.srcs/sources_1/new/transcodor_7seg.v" \
+"../../../../RAM_implementation.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
